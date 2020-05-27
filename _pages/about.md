@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About Me
+======
 
 I'm a PhD candidate in the Department of Sociology at Cornell University, USA. I study gender in the workplace, occupational mobility, legal professions, and the philosophy of science. The methods that I use are automated data collection and processing of public archives, in-depth interviews with legal professionals and politicians, agent-based social simulation models, and (for philosophy) synthesis based on close comparison of central texts. 
 
@@ -18,4 +21,4 @@ My scholarly agenda integrates three complimentary research strands. The first s
 Methods
 ======
 
-In support of my substantive research agenda I have developed an automated pipeline that collects the digital employment rolls of judges and prosecutors, cleans the data, integrates them into an employment database going back to the 1980s, and updates descriptive statistics. I have also applied, for the first time, agent-based models to the analysis of vacancy chains, in process extending Python's MESA package to cover movement in a hierarchical organisation. To ensure that all models are grounded in the experiences of those at the heart of the action, I have conducted dozens of interviews with elites in politics, law, and the media. 
+In support of my substantive research agenda I have developed an automated pipeline that collects the digital employment rolls of judges and prosecutors, cleans the data, integrates them into an employment database going back to the 1980's, and updates descriptive statistics. I have also applied, for the first time, agent-based models to the analysis of vacancy chains, in process extending Python's MESA package to cover movement in a hierarchical organisation. To ensure that all models are grounded in the experiences of those at the heart of the action, I have conducted dozens of interviews with elites in politics, law, and the media. 
