@@ -6,7 +6,7 @@ author_profile: true
 
 ## Occupational Mobility
 
-An Agent-Based Approach for Simulating Vacancy Chains <b>[[code](https://github.com/r-parvulescu/opportunity_chain_simulation)]</b><br>
+An Agent-Based Approach to Simulating Vacancy Chains <b>[[code](https://github.com/r-parvulescu/opportunity_chain_simulation)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
 Engineering Your Judiciary, or How the COVID Crisis Won’t Go to Waste <b>[[op-ed](https://discoversociety.org/2020/04/24/engineering-your-judiciary-or-how-the-covid-crisis-wont-go-to-waste/)] [[PDF](https://osf.io/preprints/socarxiv/yrtfb/)]</b><br>
