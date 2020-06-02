@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-<b>[Curriculum Vitae [PDF]](http://r-parvulescu.github.io/files/radu_parvulescu_cv_april2020.pdf)<b><br>
+<b>[Curriculum Vitae [PDF]](http://r-parvulescu.github.io/files/radu_parvulescu_cv_june2020.pdf)<b><br>
