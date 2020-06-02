@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-I'm a PhD candidate in the Department of Sociology at Cornell University, USA. I study gender in the workplace, occupational mobility, legal professions, and the philosophy of science. The methods that I use are automated data collection and processing of public archives, in-depth interviews with legal professionals and politicians, agent-based social simulation models, and (for philosophy) synthesis based on close comparison of central texts. 
+I'm a PhD candidate in the Department of Sociology at Cornell University, USA. I study gender in the workplace, occupational mobility, legal professions, and the philosophy of science. The methods that I use are automated data collection and processing of public archives, in-depth interviews with legal professionals and politicians, agent-based social simulation models, and synthesis based on close comparison of central texts (for philosophy). 
 
 Research Agenda
 ======
