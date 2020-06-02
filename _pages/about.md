@@ -16,7 +16,7 @@ I'm a PhD candidate in the Department of Sociology at Cornell University, USA. I
 Research Agenda
 ======
 
-My scholarly agenda integrates three complimentary research strands. The first stream investigates how sudden societal shocks, like revolutions or economic depressions, affect organisational labour markets. The second line of research focuses on workplace gender segregation, with a special focus on legal professionals like judges, prosecutors, and lawyers. The third strand integrates two schools in the philosphy of science, the Critical Realism of Roy Bhaskar and the Nomological Pluralism of Nancy Cartwright, to provide a foundation for sociological research that is both rigorous and critical. My research has been presented at conferences in Europe and the USA and has been featured in the popular media on <i>DiscoverSociety<i>.
+My scholarly agenda integrates three complimentary research strands. The first stream investigates how sudden societal shocks, like revolutions or economic depressions, affect organisational labour markets. The second line of research focuses on workplace gender segregation, with a special focus on legal professionals like judges, prosecutors, and lawyers. The third strand integrates two schools in the philosphy of science to provide a solid foundation for sociological research that is equally rigorous and critical. My research has been presented at conferences in Europe and the USA and has been featured in the popular media on <i>DiscoverSociety<i>.
   
 Methods
 ======
