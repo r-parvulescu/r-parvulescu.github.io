@@ -11,12 +11,12 @@ redirect_from:
 About Me
 ======
 
-I'm a PhD candidate in the Department of Sociology at Cornell University, USA. I study gender in the workplace, occupational mobility, legal professions, and the philosophy of science. The methods that I use are automated data collection and processing of public archives, in-depth interviews with legal professionals and politicians, agent-based social simulation models, and synthesis based on close comparison of central texts (for philosophy). 
+I'm a PhD candidate in the Department of Sociology at Cornell University, USA. I study gender in the workplace, occupational mobility, legal professions, and social theory. The methods that I use are automated data collection and processing of public archives, in-depth interviews with legal professionals and politicians, agent-based social simulation models, and synthesis based on close comparison of central texts (for social theory). 
 
 Research Agenda
 ======
 
-My scholarly agenda integrates three complimentary research strands. The first stream investigates how sudden societal shocks, like revolutions or economic depressions, affect organisational labour markets. The second line of research focuses on workplace gender segregation, with a special focus on legal professionals like judges, prosecutors, and lawyers. The third strand integrates two schools in the philosphy of science to provide a solid foundation for sociological research that is equally rigorous and critical. My research has been presented at conferences in Europe and the USA and has been featured in the popular media on <i>DiscoverSociety<i>.
+My scholarly agenda integrates three complimentary research strands. The first stream investigates how sudden societal shocks, like revolutions or economic depressions, affect mobility in large organisations. The second line of research focuses on workplace gender segregation, with a special focus on legal professionals like judges, prosecutors, and lawyers. The third strand integrates two schools in the philosphy of science (Critical Realism and Nomological Pluralism) to provide a solid foundation for sociological research. My research has been presented at conferences in Europe and the USA and has been featured in the popular media on <i>DiscoverSociety<i>.
   
 Methods
 ======
