@@ -16,7 +16,7 @@ I'm a PhD candidate in the Department of Sociology at Cornell University, USA. I
 Research Agenda
 ======
 
-My scholarly agenda integrates three complementary research strands. The first stream investigates how sudden societal shocks, like revolutions or economic depressions, affect occupational mobility in large organisations. The second line of research focuses on workplace gender segregation, with a special focus on legal professionals like judges, prosecutors, and lawyers. The third strand integrates two schools in the philosphy of science (Critical Realism and Nomological Pluralism) to provide a solid foundation for sociological research. My research has been presented at conferences in Europe, the USA and Canada, and has been featured in the popular media on <i>DiscoverSociety<i>.
+My scholarly agenda integrates three complementary research strands. The first stream investigates how sudden societal shocks, like revolutions or economic depressions, affect occupational mobility in large organisations. The second line of research focuses on workplace gender segregation, with a special focus on legal professionals like judges, prosecutors, and lawyers. The third strand integrates two schools in the philosophy of science (Critical Realism and Nomological Pluralism) to provide a new epistemological framework for sociological research.. My research has been presented at conferences in Europe, the USA and Canada, and has been featured in the popular media on <i>DiscoverSociety<i>.
   
 Methods
 ======
