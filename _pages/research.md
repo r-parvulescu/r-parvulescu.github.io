@@ -17,7 +17,7 @@ Engineering Your Judiciary, or How the COVID Crisis Won’t Go to Waste <b>[[op-
 The Evolution of Workplace Gender Segregation in Romanian Legal Professions, 1988-2020 <b>[[data](https://osf.io/gfjke/)] [[code](https://github.com/r-parvulescu/ro_judicial_professions)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
-## Philosophy of Science
+## Social Theory
 
 Roy Bhaskar’s Core Critical Realism and the Philosophy of Nancy Cartwright: Common Ground <b>[[preprint](https://osf.io/preprints/socarxiv/vtj23/)]</b><br>
 <i>Radu Andrei Pârvulescu</i>.
