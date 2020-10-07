@@ -21,7 +21,7 @@ The Romanian Judicial Professions Database: An Open-Source Tool for Researching 
 <b>[[preprint](https://osf.io/preprints/socarxiv/47xt2/)] [[data](https://osf.io/gfjke/)] [[code](https://github.com/r-parvulescu/ro_judicial_professions)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
-Vreţi mai multe judecatoare? Asteptaţi revoluţia (Want  More  WomenJudges?  Wait for the Revolution). <b>[[op-ed](https://www.contributors.ro/vreti-mai-multe-judecatoare-asteptati-revolutia/)]</b><br>
+Vreţi mai multe judecatoare? Asteptaţi revoluţia (Want More Women Judges? Wait for the Revolution) <b>[[op-ed in Romanian](https://www.contributors.ro/vreti-mai-multe-judecatoare-asteptati-revolutia/)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
 ## Social Theory
