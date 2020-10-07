@@ -6,6 +6,9 @@ author_profile: true
 
 ## Occupational Mobility
 
+Structural Shockwaves: Consecutive Crises and Professional Mobility Among Judges and Prosecutors <i>(under review)</i> <b>[[preprint](https://osf.io/preprints/socarxiv/hg9tq)]</b><br>
+<i>Radu Andrei Pârvulescu</i>. 
+
 An Agent-Based Approach to Simulating Vacancy Chains <b>[[code](https://github.com/r-parvulescu/opportunity_chain_simulation)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
@@ -14,7 +17,11 @@ Engineering Your Judiciary, or How the COVID Crisis Won’t Go to Waste <b>[[op-
 
 ## Gender and Legal Professions
 
-The Evolution of Workplace Gender Segregation in Romanian Legal Professions, 1988-2020 <b>[[data](https://osf.io/gfjke/)] [[code](https://github.com/r-parvulescu/ro_judicial_professions)]</b><br>
+The Romanian Judicial Professions Database: An Open-Source Tool for Researching the Romanian Legal System, <i>Journal of Romanian Studies (in press)</i>
+<b>[[preprint](https://osf.io/preprints/socarxiv/47xt2/)] [[data](https://osf.io/gfjke/)] [[code](https://github.com/r-parvulescu/ro_judicial_professions)]</b><br>
+<i>Radu Andrei Pârvulescu</i>. 
+
+Vreţi mai multe judecatoare? Asteptaţi revoluţia (Want  More  WomenJudges?  Wait for the Revolution). <b>[[op-ed](https://www.contributors.ro/vreti-mai-multe-judecatoare-asteptati-revolutia/)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
 ## Social Theory
