@@ -9,7 +9,7 @@ author_profile: true
 Structural Shockwaves: Consecutive Crises and Professional Mobility Among Judges and Prosecutors <i>(under review)</i> <b>[[preprint](https://osf.io/preprints/socarxiv/hg9tq)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
-An Agent-Based Approach to Simulating Vacancy Chains <b>[[code](https://github.com/r-parvulescu/opportunity_chain_simulation)]</b><br>
+An Agent-Based Approach to Simulating Vacancy Chains <b>[[code](https://github.com/r-parvulescu/ABM-VCA)]</b><br>
 <i>Radu Andrei Pârvulescu</i>. 
 
 Engineering Your Judiciary, or How the COVID Crisis Won’t Go to Waste <b>[[op-ed](https://discoversociety.org/2020/04/24/engineering-your-judiciary-or-how-the-covid-crisis-wont-go-to-waste/)] [[PDF](https://osf.io/preprints/socarxiv/yrtfb/)]</b><br>
